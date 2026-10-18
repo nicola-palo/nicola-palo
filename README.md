@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4169E1&height=180&section=header&text=Nicola%20Palo&fontSize=45&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Engineer&descSize=20&descAlignY=68" width="100%" alt="Nicola Palo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4169E1&height=180&section=header&text=Nicola%20Palo&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Nicola Palo"/>
 
 <div align="center">
 
