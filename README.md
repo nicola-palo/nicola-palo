@@ -45,10 +45,6 @@ LLMs and ML models treated as production components, not as a chat window:
 
 [![Frontend](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/nicola-palo)
 
-**AI & automation**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ## 📫 Contact
 
