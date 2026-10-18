@@ -8,9 +8,9 @@
 
 ## 🔭 About me
 
-Software engineer building **backend services and the data and AI systems around them**. I choose the language for the job: **Java/Spring Boot** for structured business services, **Python** for data and ML pipelines, **Rust** when low latency matters.
+Software engineer focused on backend services and the data and AI systems built around them. I pick the language that fits the job: **Java/Spring Boot** for structured business services, **Python** for data and ML pipelines, and **Rust** where low latency matters.
 
-My projects focus on the fundamentals: clear service boundaries, one database per service, stateless APIs, token-based authentication and deployment.
+My projects are built on solid fundamentals: clear service boundaries, one database per service, stateless APIs, token-based authentication and services deployed in the cloud.
 
 ## 🧩 Featured work
 
@@ -29,7 +29,6 @@ LLMs and ML models treated as production components, not as a chat window:
 - **Retrieval (RAG):** hybrid retrieval combining dense and lexical search
 - **Model serving:** integrating ML models into services, low-latency inference
 - **Computer vision:** face detection and recognition with OpenCV
-- **Automation:** workflow automation with n8n
 
 ## 🛠 Stack
 
